@@ -43,7 +43,7 @@
             <mxPoint x="480" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-pRpO2KgaCU4TwoLPr3-10" value="Write DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="9-pRpO2KgaCU4TwoLPr3-10" value="DB 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="50" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9-pRpO2KgaCU4TwoLPr3-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
             <mxPoint x="539.5" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-pRpO2KgaCU4TwoLPr3-13" value="Read DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="9-pRpO2KgaCU4TwoLPr3-13" value="DB 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="315" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9-pRpO2KgaCU4TwoLPr3-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9-pRpO2KgaCU4TwoLPr3-7" target="9-pRpO2KgaCU4TwoLPr3-13">
