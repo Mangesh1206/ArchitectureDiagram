@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="zhAkto89bIDaMqRJ-LTr">
-    <mxGraphModel dx="1921" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1785" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="pe1t7OmNn8GMrvqhE_P7-2" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe1t7OmNn8GMrvqhE_P7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pe1t7OmNn8GMrvqhE_P7-3" target="pe1t7OmNn8GMrvqhE_P7-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pe1t7OmNn8GMrvqhE_P7-3" value="Reservations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
@@ -62,9 +65,6 @@
           <mxGeometry x="-50" y="510" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pe1t7OmNn8GMrvqhE_P7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.093;entryY=0.753;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pe1t7OmNn8GMrvqhE_P7-3" target="pe1t7OmNn8GMrvqhE_P7-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pe1t7OmNn8GMrvqhE_P7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pe1t7OmNn8GMrvqhE_P7-3" target="pe1t7OmNn8GMrvqhE_P7-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
