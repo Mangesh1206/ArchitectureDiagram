@@ -240,6 +240,9 @@
         <mxCell id="d7gIqnNGh7gK6bCU3JEa-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.809;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d7gIqnNGh7gK6bCU3JEa-155" target="d7gIqnNGh7gK6bCU3JEa-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d7gIqnNGh7gK6bCU3JEa-158" value="Ratings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-100" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
